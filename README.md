@@ -33,3 +33,9 @@ Thoughtful Realizations:
 •	Metrics without interpretation are just numbers
 •	Clean data isn’t always clean logic
 •	Data work is debugging meets storytelling
+
+![Meal Subscription](https://github.com/user-attachments/assets/5cce7652-a265-4721-8038-377a7d18e340)
+![Measure](https://github.com/user-attachments/assets/e8162f77-1742-4791-a26e-61f9d8233e81)
+![SQL 2](https://github.com/user-attachments/assets/db24dfbf-b29f-4224-913f-d0ba3fec8987)
+![SQL 1](https://github.com/user-attachments/assets/634e0447-b8ca-44ae-959e-27221352a541)
+
