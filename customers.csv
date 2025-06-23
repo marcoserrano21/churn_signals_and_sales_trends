@@ -1,0 +1,101 @@
+customer_id,first_name,last_name,email,registration_date,age_group,region,city,state,acquisition_channel,referral_source,lifetime_value,engagement_score,churned,churn_date
+1,John,Smith,john.smith@email.com,2022-01-15,25-34,Northeast,New York,NY,Organic Search,NULL,1250.5,85,0,NULL
+2,Jane,Doe,jane.doe@email.com,2022-02-20,35-44,West,Los Angeles,CA,Paid Social,Facebook,850.75,65,0,NULL
+3,Peter,Jones,peter.jones@email.com,2022-03-10,18-24,South,Houston,TX,Referral,Emily White,2100,95,0,NULL
+4,Mary,Johnson,mary.johnson@email.com,2022-04-05,45-54,Midwest,Chicago,IL,Email Marketing,NULL,500.25,45,1,2023-05-15
+5,Michael,Williams,michael.williams@email.com,2022-05-21,25-34,West,San Francisco,CA,Organic Search,NULL,1500.8,90,0,NULL
+6,Patricia,Brown,patricia.brown@email.com,2022-06-18,35-44,Northeast,Boston,MA,Paid Search,Google,650.4,55,1,2023-07-20
+7,Robert,Davis,robert.davis@email.com,2022-07-02,55+,South,Miami,FL,Direct,NULL,3200,98,0,NULL
+8,Jennifer,Miller,jennifer.miller@email.com,2022-08-11,25-34,West,Seattle,WA,Paid Social,Instagram,950.6,70,0,NULL
+9,David,Wilson,david.wilson@email.com,2022-09-01,35-44,Midwest,Minneapolis,MN,Referral,John Smith,1800.2,88,0,NULL
+10,Linda,Moore,linda.moore@email.com,2022-10-25,45-54,South,Atlanta,GA,Email Marketing,NULL,300,30,1,2023-01-10
+11,James,Taylor,james.taylor@email.com,2022-11-01,18-24,Northeast,Philadelphia,PA,Organic Search,NULL,1340.3,87,0,NULL
+12,Barbara,Anderson,barbara.anderson@email.com,2022-11-05,25-34,Midwest,Detroit,MI,Paid Social,Facebook,920.1,68,0,NULL
+13,William,Thomas,william.thomas@email.com,2022-11-12,35-44,West,Phoenix,AZ,Referral,Jane Doe,2300.5,96,0,NULL
+14,Elizabeth,Jackson,elizabeth.jackson@email.com,2022-11-20,45-54,South,Dallas,TX,Email Marketing,NULL,450.75,42,1,2023-10-05
+15,Richard,White,richard.white@email.com,2022-12-01,55+,Northeast,New York,NY,Organic Search,NULL,1600,91,0,NULL
+16,Susan,Harris,susan.harris@email.com,2022-12-10,25-34,Midwest,Columbus,OH,Paid Search,Google,700.6,58,1,2023-11-15
+17,Joseph,Martin,joseph.martin@email.com,2022-12-15,35-44,South,Jacksonville,FL,Direct,NULL,3450,99,0,NULL
+18,Jessica,Thompson,jessica.thompson@email.com,2022-12-22,18-24,West,San Diego,CA,Paid Social,Instagram,1050.25,72,0,NULL
+19,Thomas,Garcia,thomas.garcia@email.com,2023-01-03,45-54,Midwest,Indianapolis,IN,Referral,Michael Williams,1950.8,89,0,NULL
+20,Sarah,Martinez,sarah.martinez@email.com,2023-01-10,25-34,South,Charlotte,NC,Email Marketing,NULL,350.5,33,1,2023-12-01
+21,Charles,Robinson,charles.robinson@email.com,2023-01-18,35-44,Northeast,New York,NY,Organic Search,NULL,1420.4,86,0,NULL
+22,Karen,Clark,karen.clark@email.com,2023-01-25,18-24,West,San Jose,CA,Paid Social,Facebook,980.9,69,0,NULL
+23,Christopher,Rodriguez,christopher.rodriguez@email.com,2023-02-02,55+,South,Austin,TX,Referral,Robert Davis,2500,97,0,NULL
+24,Nancy,Lewis,nancy.lewis@email.com,2023-02-10,25-34,Midwest,Chicago,IL,Email Marketing,NULL,480.2,44,1,2024-01-20
+25,Daniel,Lee,daniel.lee@email.com,2023-02-18,35-44,West,Los Angeles,CA,Organic Search,NULL,1750.6,92,0,NULL
+26,Lisa,Walker,lisa.walker@email.com,2023-02-25,45-54,Northeast,Boston,MA,Paid Search,Google,750.3,60,1,2024-02-28
+27,Matthew,Hall,matthew.hall@email.com,2023-03-05,25-34,South,Miami,FL,Direct,NULL,3600.75,99,0,NULL
+28,Betty,Allen,betty.allen@email.com,2023-03-12,18-24,West,Seattle,WA,Paid Social,Instagram,1150.4,75,0,NULL
+29,Anthony,Young,anthony.young@email.com,2023-03-20,35-44,Midwest,Minneapolis,MN,Referral,David Wilson,2150.9,90,0,NULL
+30,Dorothy,Hernandez,dorothy.hernandez@email.com,2023-03-28,45-54,South,Atlanta,GA,Email Marketing,NULL,380,35,1,2024-03-10
+31,Mark,King,mark.king@email.com,2023-04-04,25-34,Northeast,Philadelphia,PA,Organic Search,NULL,1500.1,88,0,NULL
+32,Sandra,Wright,sandra.wright@email.com,2023-04-11,35-44,Midwest,Detroit,MI,Paid Social,TikTok,880.5,66,0,NULL
+33,Paul,Lopez,paul.lopez@email.com,2023-04-18,18-24,West,Phoenix,AZ,Referral,Peter Jones,2600.6,95,0,NULL
+34,Ashley,Hill,ashley.hill@email.com,2023-04-25,45-54,South,Dallas,TX,Email Marketing,NULL,520.8,48,1,2024-04-05
+35,Steven,Scott,steven.scott@email.com,2023-05-02,55+,Northeast,New York,NY,Organic Search,NULL,1900.25,93,0,NULL
+36,Kimberly,Green,kimberly.green@email.com,2023-05-09,25-34,Midwest,Columbus,OH,Paid Search,Google,800.7,62,1,2024-05-12
+37,Andrew,Adams,andrew.adams@email.com,2023-05-16,35-44,South,Jacksonville,FL,Direct,NULL,3800.9,99,0,NULL
+38,Donna,Baker,donna.baker@email.com,2023-05-23,18-24,West,San Diego,CA,Paid Social,Instagram,1250.75,78,0,NULL
+39,Joshua,Gonzalez,joshua.gonzalez@email.com,2023-05-30,45-54,Midwest,Indianapolis,IN,Referral,John Smith,2250.5,91,0,NULL
+40,Emily,Nelson,emily.nelson@email.com,2023-06-06,25-34,South,Charlotte,NC,Email Marketing,NULL,410.6,38,1,2024-06-01
+41,Kevin,Carter,kevin.carter@email.com,2023-06-13,35-44,Northeast,Boston,MA,Organic Search,NULL,1600.45,89,0,NULL
+42,Michelle,Mitchell,michelle.mitchell@email.com,2023-06-20,18-24,West,San Francisco,CA,Paid Social,Facebook,1020.8,71,0,NULL
+43,Brian,Perez,brian.perez@email.com,2023-06-27,55+,South,Houston,TX,Referral,Jane Doe,2800.7,98,0,NULL
+44,Cynthia,Roberts,cynthia.roberts@email.com,2023-07-04,25-34,Midwest,Chicago,IL,Email Marketing,NULL,550.9,50,1,2024-06-20
+45,Jason,Turner,jason.turner@email.com,2023-07-11,35-44,West,Los Angeles,CA,Organic Search,NULL,1850.3,94,0,NULL
+46,Laura,Phillips,laura.phillips@email.com,2023-07-18,45-54,Northeast,New York,NY,Paid Search,Google,850.4,64,0,NULL
+47,Jeffrey,Campbell,jeffrey.campbell@email.com,2023-07-25,25-34,South,Miami,FL,Direct,NULL,4000,99,0,NULL
+48,Amy,Parker,amy.parker@email.com,2023-08-01,18-24,West,Seattle,WA,Paid Social,Instagram,1350.5,80,0,NULL
+49,Ryan,Evans,ryan.evans@email.com,2023-08-08,35-44,Midwest,Minneapolis,MN,Referral,Michael Williams,2350.6,92,0,NULL
+50,Brenda,Edwards,brenda.edwards@email.com,2023-08-15,45-54,South,Atlanta,GA,Email Marketing,NULL,450.7,40,1,2024-07-15
+51,Gary,Collins,gary.collins@email.com,2023-08-22,25-34,Northeast,Philadelphia,PA,Organic Search,NULL,1700.8,90,0,NULL
+52,Debra,Stewart,debra.stewart@email.com,2023-08-29,35-44,Midwest,Detroit,MI,Paid Social,TikTok,930.2,67,0,NULL
+53,Eric,Sanchez,eric.sanchez@email.com,2023-09-05,18-24,West,Phoenix,AZ,Referral,David Wilson,2900.9,96,0,NULL
+54,Maria,Morris,maria.morris@email.com,2023-09-12,45-54,South,Dallas,TX,Email Marketing,NULL,580.3,52,1,2024-08-25
+55,Jerry,Rogers,jerry.rogers@email.com,2023-09-19,55+,Northeast,Boston,MA,Organic Search,NULL,2000.4,95,0,NULL
+56,Denise,Reed,denise.reed@email.com,2023-09-26,25-34,Midwest,Columbus,OH,Paid Search,Google,880.8,65,0,NULL
+57,Adam,Cook,adam.cook@email.com,2023-10-03,35-44,South,Jacksonville,FL,Direct,NULL,4200.5,99,0,NULL
+58,Kathleen,Morgan,kathleen.morgan@email.com,2023-10-10,18-24,West,San Diego,CA,Paid Social,Instagram,1450.6,82,0,NULL
+59,Frank,Bell,frank.bell@email.com,2023-10-17,45-54,Midwest,Indianapolis,IN,Referral,Jennifer Miller,2450.7,93,0,NULL
+60,Christine,Murphy,christine.murphy@email.com,2023-10-24,25-34,South,Charlotte,NC,Email Marketing,NULL,480.8,43,1,2024-09-30
+61,Justin,Bailey,justin.bailey@email.com,2023-10-31,35-44,Northeast,New York,NY,Organic Search,NULL,1800.9,91,0,NULL
+62,Rachel,Rivera,rachel.rivera@email.com,2023-11-07,18-24,West,San Jose,CA,Paid Social,Facebook,1120.3,73,0,NULL
+63,Scott,Cooper,scott.cooper@email.com,2023-11-14,55+,South,Austin,TX,Referral,John Smith,3000.1,97,0,NULL
+64,Heather,Richardson,heather.richardson@email.com,2023-11-21,25-34,Midwest,Chicago,IL,Email Marketing,NULL,610.4,54,1,2024-10-22
+65,Brandon,Cox,brandon.cox@email.com,2023-11-28,35-44,West,Los Angeles,CA,Organic Search,NULL,1950.5,94,0,NULL
+66,Catherine,Howard,catherine.howard@email.com,2023-12-05,45-54,Northeast,Boston,MA,Paid Search,Google,910.6,66,0,NULL
+67,Benjamin,Ward,benjamin.ward@email.com,2023-12-12,25-34,South,Miami,FL,Direct,NULL,4400.7,99,0,NULL
+68,Diane,Torres,diane.torres@email.com,2023-12-19,18-24,West,Seattle,WA,Paid Social,Instagram,1550.8,84,0,NULL
+69,Samuel,Peterson,samuel.peterson@email.com,2023-12-26,35-44,Midwest,Minneapolis,MN,Referral,Jane Doe,2550.9,93,0,NULL
+70,Janet,Gray,janet.gray@email.com,2024-01-02,45-54,South,Atlanta,GA,Email Marketing,NULL,510.1,46,1,2024-11-15
+71,Gregory,Ramirez,gregory.ramirez@email.com,2024-01-09,25-34,Northeast,Philadelphia,PA,Organic Search,NULL,1880.2,92,0,NULL
+72,Martha,James,martha.james@email.com,2024-01-16,35-44,Midwest,Detroit,MI,Paid Social,TikTok,980.3,68,0,NULL
+73,Patrick,Watson,patrick.watson@email.com,2024-01-23,18-24,West,Phoenix,AZ,Referral,Peter Jones,3100.4,98,0,NULL
+74,Debra,Brooks,debra.brooks@email.com,2024-01-30,45-54,South,Dallas,TX,Email Marketing,NULL,640.5,56,0,NULL
+75,Walter,Kelly,walter.kelly@email.com,2024-02-06,55+,Northeast,New York,NY,Organic Search,NULL,2100.6,96,0,NULL
+76,Amanda,Sanders,amanda.sanders@email.com,2024-02-13,25-34,Midwest,Columbus,OH,Paid Search,Google,950.7,67,0,NULL
+77,Keith,Price,keith.price@email.com,2024-02-20,35-44,South,Jacksonville,FL,Direct,NULL,4600.8,99,0,NULL
+78,Sharon,Bennett,sharon.bennett@email.com,2024-02-27,18-24,West,San Diego,CA,Paid Social,Instagram,1650.9,86,0,NULL
+79,Larry,Wood,larry.wood@email.com,2024-03-05,45-54,Midwest,Indianapolis,IN,Referral,Michael Williams,2650.1,94,0,NULL
+80,Carol,Barnes,carol.barnes@email.com,2024-03-12,25-34,South,Charlotte,NC,Email Marketing,NULL,540.2,48,1,2024-12-20
+81,Timothy,Ross,timothy.ross@email.com,2024-03-19,35-44,Northeast,Boston,MA,Organic Search,NULL,2000.3,93,0,NULL
+82,Rebecca,Henderson,rebecca.henderson@email.com,2024-03-26,18-24,West,San Francisco,CA,Paid Social,Facebook,1220.4,75,0,NULL
+83,Dennis,Coleman,dennis.coleman@email.com,2024-04-02,55+,South,Houston,TX,Referral,David Wilson,3200.5,98,0,NULL
+84,Helen,Jenkins,helen.jenkins@email.com,2024-04-09,25-34,Midwest,Chicago,IL,Email Marketing,NULL,670.6,58,0,NULL
+85,Douglas,Perry,douglas.perry@email.com,2024-04-16,35-44,West,Los Angeles,CA,Organic Search,NULL,2150.7,95,0,NULL
+86,Joyce,Powell,joyce.powell@email.com,2024-04-23,45-54,Northeast,New York,NY,Paid Search,Google,990.8,69,0,NULL
+87,Henry,Long,henry.long@email.com,2024-04-30,25-34,South,Miami,FL,Direct,NULL,4800.9,99,0,NULL
+88,Shirley,Patterson,shirley.patterson@email.com,2024-05-07,18-24,West,Seattle,WA,Paid Social,Instagram,1750.1,88,0,NULL
+89,Jack,Hughes,jack.hughes@email.com,2024-05-14,35-44,Midwest,Minneapolis,MN,Referral,Jennifer Miller,2750.2,95,0,NULL
+90,Angela,Flores,angela.flores@email.com,2024-05-21,45-54,South,Atlanta,GA,Email Marketing,NULL,570.3,50,1,2025-01-10
+91,Edward,Washington,edward.washington@email.com,2024-05-28,25-34,Northeast,Philadelphia,PA,Organic Search,NULL,1950.4,92,0,NULL
+92,Virginia,Butler,virginia.butler@email.com,2024-06-04,35-44,Midwest,Detroit,MI,Paid Social,TikTok,1050.5,70,0,NULL
+93,Stephen,Simmons,stephen.simmons@email.com,2024-06-11,18-24,West,Phoenix,AZ,Referral,John Smith,3300.6,98,0,NULL
+94,Anna,Foster,anna.foster@email.com,2024-06-18,45-54,South,Dallas,TX,Email Marketing,NULL,700.7,60,0,NULL
+95,Roger,Gonzales,roger.gonzales@email.com,2024-06-25,55+,Northeast,Boston,MA,Organic Search,NULL,2250.8,97,0,NULL
+96,Mildred,Bryant,mildred.bryant@email.com,2024-07-02,25-34,Midwest,Columbus,OH,Paid Search,Google,1020.9,71,0,NULL
+97,George,Alexander,george.alexander@email.com,2024-07-09,35-44,South,Jacksonville,FL,Direct,NULL,5000,99,0,NULL
+98,Joan,Russell,joan.russell@email.com,2024-07-16,18-24,West,San Diego,CA,Paid Social,Instagram,1850.2,90,0,NULL
+99,Arthur,Griffin,arthur.griffin@email.com,2024-07-23,45-54,Midwest,Indianapolis,IN,Referral,Jane Doe,2850.3,96,0,NULL
+100,Teresa,Diaz,teresa.diaz@email.com,2024-07-30,25-34,South,Charlotte,NC,Email Marketing,NULL,600.4,52,1,2025-02-15
